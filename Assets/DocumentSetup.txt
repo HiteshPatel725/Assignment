@@ -1,0 +1,5 @@
+Gamebee Calculator assignment
+
+1-Switch the platform to Android.
+2-Open the Calculator_Scene scene.
+3-Set the resolution to portrait mode (1920x1080).
